@@ -46,3 +46,16 @@ Controllers are receiving all requests, after checking by validators. If request
 - You need export environment variables for mail provider: `CONFIG_MAIL_HOST`, `CONFIG_MAIL_PORT`, `CONFIG_MAIL_SMTP_AUTH`, `CONFIG_MAIL_STARTTLS`, `CONFIG_MAIL_USERNAME`, `CONFIG_MAIL_PASSWORD`.
 - In your terminal run `docker-compose up`, then  server starts on port `8000`
 
+- 
+![EC2 Screenshot](https://github.com/Haris32727/CountryBank/assets/100557415/582a8394-e130-49a1-a289-3c5f1125b7fc)
+
+![console output screenshot](https://github.com/Haris32727/CountryBank/assets/100557415/3ea47707-53ac-4c02-bb81-455ad6ac1d68)
+
+![country back stages output](https://github.com/Haris32727/CountryBank/assets/100557415/9626ca18-106a-4e66-8899-79156d1afeb2)
+
+![website screenshot](https://github.com/Haris32727/CountryBank/assets/100557415/3969907b-b851-428d-adf8-d6b4908411bb)                                              
+
+![website screenshot2](https://github.com/Haris32727/CountryBank/assets/100557415/b73a8c3c-4230-4dae-b2bd-6b1583d39a85)
+
+![website screenshot3](https://github.com/Haris32727/CountryBank/assets/100557415/eec5bb18-8d20-4bdb-b068-2059daedf053)
+
